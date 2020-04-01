@@ -1,9 +1,18 @@
 {
-  "name": "API",
+  "name": "api",
   "version": "1.0.0",
   "description": "baseplate for APIs",
   "main": "index.js",
   "repository": "https://github.com/mistermalm/api.git",
   "author": "Jonatan Malm <jonatan.malm@live.se>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2"
+  }
 }
