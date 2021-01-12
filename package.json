@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "baseplate for APIs",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/mistermalm/api.git",
   "author": "Jonatan Malm <jonatan.malm@live.se>",
   "license": "MIT",
